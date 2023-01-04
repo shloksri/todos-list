@@ -20,6 +20,6 @@
 
 6. Used below basic commands to push all the local files to the repository.
 
-   a. _git add ._
-   b. _git commit -m "Initialized new repository"_
-   c. _git push -u origin main_
+   - _git add ._
+   - _git commit -m "Initialized new repository"_
+   - _git push -u origin main_
